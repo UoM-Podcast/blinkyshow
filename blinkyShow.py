@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from blinkstick import blinkstick
 import random
 
